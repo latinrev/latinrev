@@ -5,13 +5,13 @@
 
 
 
-- 🔭 I’m currently working on **My portfolio**
+- 🔭 I’m currently working on **Weather app and a Mini social Network**
 
 - 🌱 I’m currently learning **NextJS**
 
 - 👨‍💻 All of my projects are available at [Full stack portfolio](https://portfolio-revlink.vercel.app)
 
-- 💬 Ask me about **react, nextjs, javascript**
+- 💬 Ask me about **react, nextjs, javascript, typescript**
 
 - 📫 How to reach me **joelecastilloj@gmail.com**
 
