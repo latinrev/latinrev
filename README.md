@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **NextJS**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-revlink.vercel.app](PORTFOLIO)
+- 👨‍💻 All of my projects are available at [Full stack portfolio](https://portfolio-revlink.vercel.app)
 
 - 💬 Ask me about **react, nextjs, javascript**
 
