@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **NextJS**
 
-- 👨‍💻 All of my projects are available at [https://latinrev.github.io/](https://latinrev.github.io/)
+- 👨‍💻 All of my projects are available at [https://portfolio-revlink.vercel.app](PORTFOLIO)
 
 - 💬 Ask me about **react, nextjs, javascript**
 
