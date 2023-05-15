@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on **Weather app and a Mini social Network**
+- 🔭 I’m currently working on **an Ecommerce**
 
 - 🌱 I’m currently learning **NextJS**
 
