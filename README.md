@@ -5,9 +5,9 @@
 
 
 
-- 🔭 I’m currently working on **an Ecommerce**
+- 🔭 I’m currently working on **a card game for pc**
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 👨‍💻 All of my projects are available at [Full stack portfolio](https://portfolio-revlink.vercel.app)
 
